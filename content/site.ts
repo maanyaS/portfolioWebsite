@@ -125,7 +125,7 @@ export const projects: Project[] = [
       { value: "Up to 30", label: "personalized recommendations" },
     ],
     stack: ["TypeScript", "Next.js", "PostgreSQL", "Supabase", "MediaPipe"],
-    media: { kind: "drive", id: "1fFRIm8ajYFRT6KmowKo8X5FGgpojjMPm", title: "Korean Color Analysis demo" },
+    media: { kind: "youtube", id: "Ut4l-umxPW4", title: "Korean Color Analysis demo" },
   },
   {
     name: "SignSprites",
